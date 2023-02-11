@@ -1,3 +1,3 @@
 # ImageFinder
 Image Finder | Unsplash API
-Demo : https://asliddin.com/ImageFinder/
+Demo : https://asliddinamir.github.io/ImageFinder/
