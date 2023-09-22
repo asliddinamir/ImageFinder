@@ -1,3 +1,3 @@
 # ImageFinder
 Image Finder | Unsplash API
-Demo : https://asliddinamir.github.io/ImageFinder/
+Demo : https://asliddin-image-finder.netlify.app/
